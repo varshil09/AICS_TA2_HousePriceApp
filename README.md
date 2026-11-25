@@ -1,0 +1,5 @@
+frontend :
+python -m http.server 8000
+
+backend:
+python app.py
